@@ -1,7 +1,7 @@
 # CaptureTheFlag
 Capture The Flag (CTF) Related Writeups and Scripts  
-## [HackTheBox](HackTheBox/)  
-## [picoCTF](picoCTF/)  
+## HackTheBox 
+## picoCTF
 * [Transformation](picoCTF/Transformation/)  
-## [ångstromCTF](%C3%A5ngstromCTF/)  
+## ångstromCTF  
 * [Crumbs](/ångstromCTF/Crumbs/)
