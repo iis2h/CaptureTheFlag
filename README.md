@@ -1,5 +1,5 @@
 # CaptureTheFlag
-Capture The Flag (CTF) Related Writeups and Scripts  
+Capture The Flag (CTF) Writeups and Scripts  
 ## HackTheBox 
 #### Coming Soon
 ## picoCTF
