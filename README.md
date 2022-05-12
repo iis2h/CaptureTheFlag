@@ -1,7 +1,7 @@
 # CaptureTheFlag
 Capture The Flag (CTF) Writeups and Scripts  
 ## HackTheBox 
-#### Coming Soon
+* [Writeup](https://iis2h.gitbook.io/writeup/)  
 ## picoCTF
 #### Reverse Engineering
 * [Transformation](picoCTF/Transformation/)  
