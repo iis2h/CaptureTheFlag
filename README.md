@@ -1,7 +1,7 @@
 # CaptureTheFlag
 Capture The Flag (CTF) Writeups and Scripts  
 ## HackTheBox 
-* [Writeup](https://fr3nzy.medium.com/hackthebox-writeup-6cffd04fc1f9)  
+* [Writeup](https://s2eed.com/posts/HTB-Writeup/)  
 ## picoCTF
 #### Reverse Engineering
 * [Transformation](picoCTF/Transformation/)  
